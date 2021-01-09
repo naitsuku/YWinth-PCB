@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name YWINTH_PCB-rescue)(type Legacy)(uri ${KIPRJMOD}/YWINTH_PCB-rescue.lib)(options "")(descr ""))
+)
